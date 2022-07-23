@@ -1,0 +1,8 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kgodeeper/code_structure.git",
+  "author": "kgodeeper <kgodeeper@gmail.com>",
+  "license": "MIT"
+}
