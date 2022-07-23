@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/kgodeeper/code_structure.git",
   "author": "kgodeeper <kgodeeper@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
